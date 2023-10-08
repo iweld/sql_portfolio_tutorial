@@ -41,6 +41,10 @@ Markdown can be learned in as little as 15 minutes.  You can learn more about Ma
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
+You can also practice using Markdown with an online, in-browser WYSIWYG editor.  This will allow you to easily create a Markdown file and see the rendered results in real-time.
+
+[StackEdit.io](https://stackedit.io/)
+
 However, if you follow along with my [source code](https://raw.githubusercontent.com/iweld/sql_portfolio_tutorial/main/README.md?token=GHSAT0AAAAAACHE5256YAFERDD3WJZ3D3E4ZJCBUWA), if should not be too difficult to comprehend.  Markdown is very simple.
 
 For this tutorial, I am using PostgreSQL within a Docker container to run the .sql scripts. If you would like to do the same but don't know how, you can follow this walkthrough and it will guide you on how to create a PostgreSQL container within Docker. Very useful information and not difficult but not necessary for this tutorial.
