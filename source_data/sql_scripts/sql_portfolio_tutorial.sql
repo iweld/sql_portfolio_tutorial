@@ -103,7 +103,7 @@ book_id|book_title                        |no_of_pages|
 
 */
 
--- 3. List the amount of time that has passed since the first year published and the last.
+-- 3. List the amount of time (in years) that have passed since the first published book and the last published book.
 
 SELECT
 	MIN(year_published) AS first_published,
