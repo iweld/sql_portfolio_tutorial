@@ -19,16 +19,18 @@ All of my SQL projects consist of at least two (2) separate files.
 - SQL File
 - Markdown File
 
-The SQL file is the file that consist of of the actual SQL code.  This should be pretty self-explanatory, but I do want to mention an important note. 
+The SQL file is the file that consist of the actual SQL code.  This should be pretty self-explanatory, but I do want to mention an important note. 
 
 :exclamation:  Make sure to give your SQL file an `.sql` extension! :exclamation: 
 
-With a `.sql` extension your file will have syntax highlighting which will make it much easier to read and professional looking.
+With a `.sql` extension your file will have syntax highlighting which will make it much easier to read and appear much more professional looking.
 
 Note the difference between the following two files.  One file has the `.sql` extension, the other does not.
 
 - [sql_portfolio_sql.sql](./source_data/sql_scripts/sql_portfolio_tutorial.sql)
 - [sql_portfolio_sql_no_extension](./source_data/sql_scripts/sql_portfolio_tutorial_no_extension)
+
+Same exact code but the file extension changes everything.
 
 Other than the SQL file, I also include a presentation file written in the Markdown language.  This very file that you are reading is a Markdown file as you can tell my the `.md` extension in the file name.
 
@@ -61,7 +63,7 @@ book_id|book_title                        |no_of_pages|
      48|The Dark Tower VII: The Dark Tower|        845|
 ```
 
-Using Markdown, I can easily convert the output into tabular format.
+Using Markdown, I can easily convert the output into a tabular format.
 
 book_id|book_title                        |no_of_pages|
 -------|----------------------------------|-----------|
@@ -181,6 +183,6 @@ As you can see, You will have to copy the SQL code, the query results and then p
 
 This is some extra work, but I think it looks much better and it's a great way to showcase your technical abilities and attention to detail.
 
-I hope this helps you and good luck!  Feel free to message me if you have any questions or want to show off your work!
+I hope this helps you.  Feel free to message me if you have any questions or want to show off your work!  Good luck!
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
