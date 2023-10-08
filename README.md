@@ -41,15 +41,21 @@ Markdown can be learned in as little as 15 minutes.  You can learn more about Ma
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
+#### What about icons/emoji's?  Can I also add them to my file to give it a little more style?
+
+Sure, just use the [Github Emoji Picker](https://github-emoji-picker.rickstaa.dev/) or check out this [Github repository](https://gist.github.com/rxaviers/7360908).
+
 You can also practice using Markdown with an online, in-browser WYSIWYG editor.  This will allow you to easily create a Markdown file and see the rendered results in real-time.
 
 [StackEdit.io](https://stackedit.io/)
 
 However, if you follow along with my [source code](https://raw.githubusercontent.com/iweld/sql_portfolio_tutorial/main/README.md?token=GHSAT0AAAAAACHE5256YAFERDD3WJZ3D3E4ZJCBUWA), if should not be too difficult to comprehend.  Markdown is very simple.
 
-For this tutorial, I am using PostgreSQL within a Docker container to run the .sql scripts. If you would like to do the same but don't know how, you can follow this walkthrough and it will guide you on how to create a PostgreSQL container within Docker. Very useful information and not difficult but not necessary for this tutorial.
+#### How can I get started?
 
-[Docker/PostgreSQL Guide](https://github.com/iweld/SQL_Coding_Challenge/blob/main/walkthrough/WALKTHROUGH_1_DOCKER.md)
+For this tutorial, I am using [PostgreSQL](https://www.postgresql.org/) within a [Docker](https://www.docker.com/get-started/) container to run the `.sql` scripts. If you would like to do the same but don't know how, you can follow this walkthrough and it will guide you on how to create a PostgreSQL container within Docker. Very useful information and not difficult but not necessary for this tutorial.
+
+[Docker/PostgreSQL Getting Started Guide](https://github.com/iweld/SQL_Coding_Challenge/blob/main/walkthrough/WALKTHROUGH_1_DOCKER.md)
 
 To access the PostgreSQL server, I use a Universal Database Manager named [DBeaver](https://dbeaver.io/).  The community version of [DBeaver](https://dbeaver.io/) is completely **FREE**.  
 
