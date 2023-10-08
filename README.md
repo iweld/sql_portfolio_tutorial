@@ -30,7 +30,7 @@ Note the difference between the following two files.  One file has the `.sql` ex
 - [sql_portfolio_sql.sql](./source_data/sql_scripts/sql_portfolio_tutorial.sql)
 - [sql_portfolio_sql_no_extension](./source_data/sql_scripts/sql_portfolio_tutorial_no_extension)
 
-Same exact code but the file extension changes everything.
+Same exact code but the file extension changes how it is rendered by the browser.
 
 ![plaintext vs syntax highlighting](./source_data/images/plain_text_vs_highlighting.PNG)
 
