@@ -47,13 +47,15 @@ Markdown can be learned in as little as 15 minutes.  You can learn more about Ma
 
 Sure, just use the [Github Emoji Picker](https://github-emoji-picker.rickstaa.dev/) or check out this [Github repository](https://gist.github.com/rxaviers/7360908).
 
+Although I would encourage you to use them sparingly.
+
 #### Is there an easy way to practice without having to download anything?
 
 You can practice using Markdown with an online, in-browser WYSIWYG editor.  This will allow you to easily create a Markdown file and see the rendered results in real-time.
 
 [StackEdit.io](https://stackedit.io/)
 
-However, if you follow along with my [source code](https://raw.githubusercontent.com/iweld/sql_portfolio_tutorial/main/README.md?token=GHSAT0AAAAAACHE5256YAFERDD3WJZ3D3E4ZJCBUWA), if should not be too difficult to comprehend.  Markdown is very simple.
+If you follow along with my [source code](https://raw.githubusercontent.com/iweld/sql_portfolio_tutorial/main/README.md?token=GHSAT0AAAAAACHE5256YAFERDD3WJZ3D3E4ZJCBUWA), if should not be too difficult to comprehend.  Markdown is a very simple language to understand and implement.
 
 #### How can I get started?
 
@@ -122,7 +124,7 @@ This will allow your SQL code (or any programming/scripting code for that matter
 		column_name IS NOT NULL;
 ```
 
-I have created a small SQL file to show a practical example on how this could be used.  Follow the example below.
+I have created a small [SQL file](./source_data/sql_scripts/sql_portfolio_tutorial.sql) to show a practical example on how this could be used.  Follow the example below.
 
 #### Markdown File Example
 
