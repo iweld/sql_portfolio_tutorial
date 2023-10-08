@@ -87,7 +87,7 @@ To write the Markdown source code, I use [VSCode](https://code.visualstudio.com/
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
-Within VSCode, I use an extension called `Markdown Preview Enhanced` that allows me to see the rendered Markdown code in real time.
+VSCode is not necessary to write Markdown.  You can write Markdown with a simple text editor like Notepad.exe.  However, within VSCode, I also use an extension called `Markdown Preview Enhanced` that allows me to see the rendered Markdown code in real time.
 
 ![vscode screenshot](./source_data/images/rendered_markdown.PNG)
 
