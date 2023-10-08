@@ -32,6 +32,8 @@ Note the difference between the following two files.  One file has the `.sql` ex
 
 Same exact code but the file extension changes everything.
 
+![plaintext vs syntax highlighting](./source_data/images/plain_text_vs_highlighting.PNG)
+
 Other than the SQL file, I also include a presentation file written in the Markdown language.  This very file that you are reading is a Markdown file as you can tell my the `.md` extension in the file name.
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.  Markdown is similar but much simpler than HTML.
@@ -41,11 +43,13 @@ Markdown can be learned in as little as 15 minutes.  You can learn more about Ma
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
-#### What about icons/emoji's?  Can I also add them to my file to give it a little more style?
+#### What about icons/emoji's?  Can I also add them to my file to give it a little more style?  Where can I find them?
 
 Sure, just use the [Github Emoji Picker](https://github-emoji-picker.rickstaa.dev/) or check out this [Github repository](https://gist.github.com/rxaviers/7360908).
 
-You can also practice using Markdown with an online, in-browser WYSIWYG editor.  This will allow you to easily create a Markdown file and see the rendered results in real-time.
+#### Is there an easy way to practice without having to download anything?
+
+You can practice using Markdown with an online, in-browser WYSIWYG editor.  This will allow you to easily create a Markdown file and see the rendered results in real-time.
 
 [StackEdit.io](https://stackedit.io/)
 
