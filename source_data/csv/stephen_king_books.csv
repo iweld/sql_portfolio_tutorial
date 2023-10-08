@@ -1,0 +1,76 @@
+book_id,book_title,year_published,book_type,author,no_of_pages,goodreads_number_of_ratings,goodreads_avg_rating
+1,carrie,1974,novel,stephen king,199,639126,3.98
+2,salems lot,1975,novel,stephen king,439,404379,4.05
+3,rage,1976,novel,richard bachman,211,42253,3.75
+4,the shining,1977,novel,stephen king,447,1346512,4.26
+5,the stand,1978,novel,stephen king,823,707918,4.34
+6,night shift,1978,collection,stephen king,409,167106,4.03
+7,the long walk,1978,novel,richard bachman,384,158786,4.1
+8,the dead zone,1979,novel,stephen king,428,207616,3.95
+9,firestarter,1980,novel,stephen king,426,213338,3.91
+10,roadwork,1981,novel,richard bachman,274,33970,3.6
+11,cujo,1981,novel,stephen king,319,260864,3.76
+12,the running man,1981,novel,richard bachman,219,119714,3.89
+13,the dark tower: the gunslinger,1982,novel,stephen king,224,569399,3.93
+14,different seasons,1982,collection,stephen king,560,193667,4.35
+15,christine,1983,novel,stephen king,526,225127,3.82
+16,pet sematary,1983,novel,stephen king,374,523296,4.04
+17,cycle of the werewolf,1983,novel,stephen king,127,55707,3.66
+18,the talisman,1984,novel,stephen king,646,120487,4.12
+19,thinner,1984,novel,richard bachman,309,196211,3.76
+20,skeleton crew,1985,collection,stephen king,612,119058,3.97
+21,it,1986,novel,stephen king,1138,992330,4.25
+22,the eyes of the dragon,1987,novel,stephen king,326,118415,3.94
+23,the dark tower ii: the drawing of the three,1987,novel,stephen king,400,241703,4.23
+24,misery,1987,novel,stephen king,310,614259,4.2
+25,the tommyknockers,1987,novel,stephen king,558,141782,3.58
+26,the dark half,1989,novel,stephen king,431,134857,3.8
+27,four past midnight,1990,collection,stephen king,930,104483,3.94
+28,the dark tower iii: the waste lands,1991,novel,stephen king,512,206126,4.24
+29,needful things,1991,novel,stephen king,690,234118,3.95
+30,geralds game,1992,novel,stephen king,352,150081,3.56
+31,dolores claiborne,1992,novel,stephen king,305,141263,3.9
+32,nightmares & dreamscapes,1993,collection,stephen king,836,79143,3.95
+33,insomnia,1994,novel,stephen king,787,147258,3.83
+34,rose madder,1995,novel,stephen king,420,106217,3.73
+35,the green mile,1996,novel,stephen king,400,289929,4.46
+36,desperation,1996,novel,stephen king,704,133303,3.84
+37,the regulators,1996,novel,richard bachman,480,79231,3.72
+38,the dark tower iv: wizard and glass,1997,novel,stephen king,787,184279,4.25
+39,bag of bones,1998,novel,stephen king,529,188425,3.91
+40,the girl who loved tom gordon,1999,novel,stephen king,224,149040,3.62
+41,hearts in atlantis,1999,collection,stephen king,640,90728,4.05
+42,dreamcatcher,2001,novel,stephen king,620,166258,3.65
+43,black house,2001,novel,stephen king,625,59150,4.02
+44,everythings eventual,2002,collection,stephen king,605,95207,3.97
+45,from a buick 8,2002,novel,stephen king,368,65227,3.47
+46,the dark tower v: wolves of the calla,2003,novel,stephen king,714,172022,4.19
+47,the dark tower vi: song of susannah,2004,novel,stephen king,432,147310,3.99
+48,the dark tower vii: the dark tower,2004,novel,stephen king,845,161541,4.27
+49,the colorado kid,2005,novel,stephen king,184,45453,3.38
+50,cell,2006,novel,stephen king,351,211931,3.66
+51,liseys story,2006,novel,stephen king,528,80400,3.7
+52,blaze,2007,novel,richard bachman,304,46314,3.75
+53,duma key,2008,novel,stephen king,607,114287,3.96
+54,just after sunset,2008,collection,stephen king,367,51529,3.87
+55,under the dome,2009,novel,stephen king,1074,283229,3.91
+56,"full dark, no stars",2010,collection,stephen king,368,103105,4.07
+57,11/22/1963,2011,novel,stephen king,849,489810,4.32
+58,the dark tower: the wind through the keyhole,2012,novel,stephen king,336,76153,4.15
+59,joyland,2013,novel,stephen king,288,143049,3.93
+60,doctor sleep,2013,novel,stephen king,531,235763,4.12
+61,mr. mercedes,2014,novel,stephen king,436,282210,3.99
+62,revival,2014,novel,stephen king,403,115043,3.8
+63,finders keepers,2015,novel,stephen king,434,131830,4.05
+64,the bazaar of bad dreams,2015,novel,stephen king,495,55623,3.92
+65,end of watch,2016,novel,stephen king,496,106491,4.09
+66,gwendys button box,2017,novel,stephen king,175,60226,3.92
+67,sleeping beauties,2017,novel,stephen king,702,75757,3.73
+68,the outsider,2018,novel,stephen king,576,254614,3.99
+69,elevation,2018,novel,stephen king,144,110287,3.66
+70,the institute,2019,novel,stephen king,576,218361,4.2
+71,if it bleeds,2020,collection,stephen king,447,78844,4.01
+72,later,2021,novel,stephen king,256,104029,3.97
+73,billy summers,2021,novel,stephen king,528,113528,4.23
+74,gwendy's final task,2022,novel,stephen king,412,11452,4.13
+75,fairy tale,2022,novel,stephen king,599,69206,3.8
