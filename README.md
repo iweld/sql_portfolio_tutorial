@@ -55,7 +55,7 @@ You can practice using Markdown with an online, in-browser WYSIWYG editor.  This
 
 [StackEdit.io](https://stackedit.io/)
 
-If you follow along with my [source code](https://raw.githubusercontent.com/iweld/sql_portfolio_tutorial/main/README.md?token=GHSAT0AAAAAACHE5256YAFERDD3WJZ3D3E4ZJCBUWA), if should not be too difficult to comprehend.  Markdown is a very simple language to understand and implement.
+If you follow along with my [source code](https://raw.githubusercontent.com/iweld/sql_portfolio_tutorial/main/README.md?token=GHSAT0AAAAAACHE5256YAFERDD3WJZ3D3E4ZJCBUWA), it should not be too difficult to comprehend.  Markdown is a very simple language to understand and implement.
 
 #### How can I get started?
 
